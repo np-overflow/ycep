@@ -12,4 +12,4 @@ Use existing maze solver
 
 ## Flag
 
-`HNF{Th0M4s_woU1D_b3_pR0uD!}`
+`STRT{Th0M4s_WoU1D_b3_PR0uD!}`
