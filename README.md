@@ -13,4 +13,4 @@ ROT-13 decode the string to find the flag
 
 ## Flag
 
-``
+`STRT{h0W_d1d_u_find_m3}`
