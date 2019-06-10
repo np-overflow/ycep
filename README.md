@@ -4,7 +4,7 @@ In the mood for some salad, any recommendations?
 
 ## Difficulty
 
-⭐️⭐️⭐️⭐️
+⭐️⭐️⭐️
 
 ## Writeup
 
