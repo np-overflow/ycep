@@ -9,3 +9,7 @@ Maybe pikachu knows the flag.
 ## Flag
 
 `STRT{P0k3mon_g0!!}`
+
+## Solution
+
+There's a language called Pika lang. Put it through that to get the output.
