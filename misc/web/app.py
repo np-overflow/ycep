@@ -8,16 +8,6 @@ def index():
     resp.set_cookie("admin","0")
     return resp
 
-# Challenge one
-@app.route("/agents")
-def user_agent():
-    user_agent = request.headers.get("User-Agent")
-    if user_agent == "YCEPBot":
-        return render_template("agent-flag.html")
-    else:
-        return render_template("agent-fail.html",user_agent = user_agent)
-
-# Challenge two
 @app.route("/robots.txt")
 def show_robots():
     return send_from_directory(app.static_folder,"robots.txt")
