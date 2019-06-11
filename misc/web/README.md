@@ -1,21 +1,9 @@
-# NOTE: This contains 2 challenges
-
-# Challenge 1: Agent K
+# Agent K
 
 ## Description
 
-\<insert url>/agents
+http://stritwise.yadunut.com:8000/agents
 
 ## Flag
 
-FLAG FORMAT NOT FINALIZED.
-
-# Challenge 2: Cookie Monster
-
-## Description
-
-Chocolate cookies, mint cookies, vanilla cookies, i love cookiessssss
-
-## Flag
-
-FLAG FORMAT NOT FINALIZED
+STRT{master_of_disguise}
