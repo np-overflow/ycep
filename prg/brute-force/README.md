@@ -1,6 +1,6 @@
 # Brute force
 
-Get the flag through brute force. It's at `http://brute-force-stritwise.yadunut.com/<some 4-digit code>`.
+Get the flag through brute force. It's at https://brute-force.stritwise.yadunut.com
 
 ## Flag
 
