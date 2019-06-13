@@ -15,5 +15,5 @@ def user_agent():
         return render_template("agent-fail.html",user_agent = user_agent)
 
 if __name__ == "__main__":
-    app.run()
+    app.run(host="0.0.0.0")
 
