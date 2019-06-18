@@ -1,1 +1,2 @@
-/cookiemonster
+User-agent: *
+Disallow: /cookiemonster
