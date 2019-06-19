@@ -2,7 +2,7 @@
 
 ## Description
 
-http://stritwise.yadunut.com:8000/agents
+https://agent-k.stritwise.yadunut.com/agents
 
 ## Flag
 

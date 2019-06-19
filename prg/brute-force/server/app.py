@@ -11,5 +11,5 @@ def flag():
     return 'STRT{pure_brute_force_works}'
 
 if __name__ == "__main__":
-    app.run()
+    app.run(host="0.0.0.0")
 
